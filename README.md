@@ -14,7 +14,7 @@ In this project, we will use Python to explore data related to bike share system
 ## Softwares needed:
 - Python 3
 
-## Packages needed:
+## Libraries needed:
 - pandas
 - time
 
