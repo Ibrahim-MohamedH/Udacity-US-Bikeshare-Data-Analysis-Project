@@ -19,12 +19,12 @@ In this project, we will use Python to explore data related to bike share system
 - time
 
 ## How to run the code:
-1 - Download and install [Python 3.7](https://www.python.org/downloads/)
-2 - Download by one of 2 methods:
-  A - Press "Code" and then press "Download Zip"
-  B - Use `git clone https://github.com/Ibrahim-MohamedH/Udacity-US-Bikeshare-Data-Analysis-Project.git` to download the files to your machine
-3 - unrar "csv file.rar" and make sure all of the content are in the same folder
-4 - run and test the code by typing `python US_bikeshare.py`
+ - Download and install [Python 3.7](https://www.python.org/downloads/)
+ - Download by one of 2 methods:
+   - Press "Code" and then press "Download Zip"
+   - Use `git clone https://github.com/Ibrahim-MohamedH/Udacity-US-Bikeshare-Data-Analysis-Project.git` to download the files to your machine
+ - unrar "csv file.rar" and make sure all of the content are in the same folder
+ - run and test the code by typing `python US_bikeshare.py`
 
 ## Code explained in Detail:
 The code interact with the user by taking raw input to create an interactive experience in the terminal that answers questions about the dataset depending on the users input.
