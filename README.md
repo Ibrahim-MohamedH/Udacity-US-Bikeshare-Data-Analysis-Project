@@ -23,7 +23,7 @@ In this project, we will use Python to explore data related to bike share system
  - Download by one of 2 methods:
    - Press "Code" and then press "Download Zip"
    - Use `git clone https://github.com/Ibrahim-MohamedH/Udacity-US-Bikeshare-Data-Analysis-Project.git` to download the files to your machine
- - unrar "csv file.rar" and make sure all of the content are in the same folder
+ - unrar "csv files.rar" and make sure all of the content are in the same folder
  - run and test the code by typing `python US_bikeshare.py`
 
 ## Code explained in Detail:
