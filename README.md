@@ -33,7 +33,7 @@ The questions that will change the answers:
  
  - Which city would you like to see its data, (chicago, new york city, or washington)?
  - Would you like to filter both Months and Days?
- - (If they chose yes):
+ - (If person choose yes):
       - Which month would you like to filter the data according to? (ex: all, january, february, ... , june)
       - Which day would you like to filter the data according to? (ex: all, monday, tuesday, ... sunday)
 
